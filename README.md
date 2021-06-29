@@ -14,7 +14,8 @@ FiveM forum post:
     <img src="https://distinctive-dev.com/github/images/DD-EXTRACONTROL/DD-EXTRACONTROL-YT.png" target="_blank" width="500" >
   </a>
 </p>
-Vehicle used in the video: [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+Vehicle used in the video: 
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 
 ## Installation
