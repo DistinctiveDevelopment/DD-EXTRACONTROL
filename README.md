@@ -32,6 +32,9 @@ Do the following to update the keybinds:
 3. Remove the lines with this resource name.
 4. Restart Fivem. Keybinds will be set back to default values set in the config.
 
+Use the fivem keyboard list for the default names:
+https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/
+
 ## Source Code
 The source code is included inside the "source" folder
 
