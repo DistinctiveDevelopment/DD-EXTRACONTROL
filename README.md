@@ -25,8 +25,8 @@ FiveM forum post:
 ## CONFIG
 There are two configs in the resource, one for to setup the vehicles and one to setup the default keybinds and description for the keybinds. Make sure you are following the format. The script looks for the "gameName" in the meta files for the vehicle, be sure to setup the config with the same "gameName" as in the vehicle meta.
 
-If you are testing out the resource and finding that the default keybinds are not changeing, this is because FiveM saves these keybinds.
-You can find these keybinds here:
+If you are testing out the resource and finding that the default keybinds are not changeing, this is because FiveM saves these keybinds on first load of the resource.
+Do the following to update the keybinds:
 1. Go to C:\Users\[USERNAME]\AppData\Roaming\CitizenFX
 2. Open fivem.cfg
 3. Remove the lines with this resource name.
