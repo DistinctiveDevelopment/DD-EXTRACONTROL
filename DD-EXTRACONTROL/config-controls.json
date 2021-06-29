@@ -1,0 +1,13 @@
+{
+    "Extra1_Description": "Toggle Extra One",
+    "Extra1_Input": "NUMPAD1",
+
+    "Extra2_Description": "Toggle Extra Two",
+    "Extra2_Input": "NUMPAD2",
+
+    "Extra3_Description": "Toggle Extra Three",
+    "Extra3_Input": "NUMPAD3",
+
+    "Extra4_Description": "Toggle Extra Four",
+    "Extra4_Input": "NUMPAD4"
+}

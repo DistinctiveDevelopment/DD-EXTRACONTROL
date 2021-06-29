@@ -1,0 +1,21 @@
+[
+    {
+        "Model": "vehicle1",
+        "Extra1": 1,
+        "Extra2": 9,
+        "Extra3": 10,
+        "Extra4": 12
+    },
+    {
+        "Model": "Rubble",
+        "Extra1": 1,
+        "Extra2": 2
+    },
+    {
+        "Model": "17silv",
+        "Extra1": 3,
+        "Extra2": 8,
+        "Extra3": 5,
+        "Extra4": 6
+    }
+]
