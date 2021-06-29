@@ -14,6 +14,7 @@ FiveM forum post:
     <img src="https://distinctive-dev.com/github/images/DD-EXTRACONTROL/DD-EXTRACONTROL-YT.png" target="_blank" width="500" >
   </a>
 </p>
+Vehicle used in the video: https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/30534-non-els-fivem-ready-2017-silverado-dot-truck-moveable-arrowboard/
 
 ## Installation
 1. Download the latest release [HERE](https://github.com/DistinctiveDevelopment/DD-EXTRACONTROL/releases "DD-EXTRACONTROL Releases")
