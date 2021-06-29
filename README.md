@@ -7,7 +7,7 @@ The resource includes 4 keybinds which can be setup for separate vehicles. So ke
 Join our Discord if you are looking for support or just want to talk!
 https://discord.distinctive-dev.com/
 
-FiveM forum post: 
+FiveM forum post: https://forum.cfx.re/t/release-c-free-distinctive-development-extra-control/
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=0AygtwevKKQ">
