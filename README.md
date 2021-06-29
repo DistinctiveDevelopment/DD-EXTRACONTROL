@@ -15,7 +15,7 @@ FiveM forum post:
   </a>
 </p>
 Vehicle used in the video: 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/30534-non-els-fivem-ready-2017-silverado-dot-truck-moveable-arrowboard/
 
 
 ## Installation
