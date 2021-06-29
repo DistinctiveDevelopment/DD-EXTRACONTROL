@@ -16,9 +16,9 @@ FiveM forum post:
 </p>
 
 ## Installation
-1. Download the latest release [HERE](https://github.com/DistinctiveDevelopment/DD-PERSISTENTFLASHLIGHT/releases "DD-PERSISTENTFLASHLIGHT Releases")
-2. Move the "DD-PERSISTENTFLASHLIGHT" folder to your server resources.
-3. Add “DD-PERSISTENTFLASHLIGHT” to your server.cfg with start or ensure
+1. Download the latest release [HERE](https://github.com/DistinctiveDevelopment/DD-EXTRACONTROL/releases "DD-EXTRACONTROL Releases")
+2. Move the "DD-EXTRACONTROL" folder to your server resources.
+3. Add “DD-EXTRACONTROL” to your server.cfg with start or ensure
 4. Configure the config
 5. Start the resource or reboot the server
 
@@ -40,4 +40,4 @@ Any feedback on the resource is appreciated, this includes bugs, suggestions and
 
 ## Changelog
 **V1.0.0**
-- Initial release (not on github)
+- Initial release
